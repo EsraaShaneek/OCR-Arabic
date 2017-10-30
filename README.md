@@ -1,0 +1,2 @@
+# OCR-Arabic
+                Arabic OCR and Translation  is often seen as an application helping translation Arabic text to English  , increasing the overall efficiency of the translation process. The application evolving fast , continuously updating   and  properly implemented. Arabic OCR solutions can speed up the processing of translation , increase accessibility and make translation more convenient for people ,also it reducing the effort in the long term.  Unfortunately, not all translation  process succeed in giving  results with high accuracy .
